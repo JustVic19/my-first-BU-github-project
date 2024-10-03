@@ -1,0 +1,7 @@
+# my_first_script.py
+
+def main():
+    print("Hello, BU Programming Unit!")
+
+if __name__ == "__main__":
+    main()
